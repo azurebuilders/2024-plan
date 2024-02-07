@@ -1,11 +1,11 @@
 # Plan for 2024
 
-We're planning to run four normal sessions with a special event planned around Sep-Oct 2024
+About Azure Builders: https://www.meetup.com/azure-builders-melbourne/
 
-What to expect in a normal meetup session: 
-
-Format: A special talk (subject to availability of a resource) + 4-5 lightning talks. 
-Duration: 2 Hours (+ Networking time)
+- Planned sessions: 4
+- Meetup format: A special talk (subject to availability of a resource) + 4-5 ⚡ Lightning Talks. 
+- Meetup duration: 2 hours (+ networking time)
+- Time: 5:30pm to 8pm
 
 | Meetup      | Meetup 1                            | Meetup 2                         | Meetup 3                         | Meetup 4                         |
 | ----------- | ------------------------------------| -------------------------------- | -------------------------------- | -------------------------------- |
